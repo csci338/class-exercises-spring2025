@@ -2,5 +2,5 @@ solutions
 *.pyc
 node_modules
 .DS_Store
-
+*.class
 drafts
